@@ -1,0 +1,6 @@
+c:\users\алексей\documents\visual studio 2015\Projects\Scan_Lan2\Scan_Lan2\obj\Debug\Scan_Lan2.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2015\Projects\Scan_Lan2\Scan_Lan2\bin\Debug\Сканер локальной сети.exe.config
+c:\users\алексей\documents\visual studio 2015\Projects\Scan_Lan2\Scan_Lan2\bin\Debug\Сканер локальной сети.exe
+c:\users\алексей\documents\visual studio 2015\Projects\Scan_Lan2\Scan_Lan2\bin\Debug\Сканер локальной сети.pdb
+c:\users\алексей\documents\visual studio 2015\Projects\Scan_Lan2\Scan_Lan2\obj\Debug\Сканер локальной сети.exe
+c:\users\алексей\documents\visual studio 2015\Projects\Scan_Lan2\Scan_Lan2\obj\Debug\Сканер локальной сети.pdb
